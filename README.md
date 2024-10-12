@@ -39,7 +39,7 @@ The Happiness Calculator is a Python program that computes your happiness based 
 
     -Fourth line: A space-separated list of m integers (set B).
 
-#Example Input
+# Example Input
 
 5 3
 
@@ -49,11 +49,11 @@ The Happiness Calculator is a Python program that computes your happiness based 
 
 7 4 6
 
-#Output
+# Output
 
 2
 
-#How It Works
+## How It Works
 
 The program reads the input values and converts sets A and B into sets for quick lookup.
 It iterates through the array, adjusting the happiness score based on the presence of each integer in sets A or B.
@@ -62,10 +62,10 @@ Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-#License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-#Contact
+# Contact
 
 For any inquiries or issues, please contact Michael Bond at bondpapi@yahoo.com

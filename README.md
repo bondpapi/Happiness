@@ -21,13 +21,13 @@ The Happiness Calculator is a Python program that computes your happiness based 
 1. Clone the repository:
    ```bash
    git clone https://github.com/bondpapi/Happiness
-   cd happiness-calculator
+   `cd happiness-calculator`
 
 ## Usage
 
 1. Run the program:
 
-    python happiness_calculator.py
+    `python happiness_calculator.py`
 
 2. Provide input in the following format:
 
@@ -41,17 +41,17 @@ The Happiness Calculator is a Python program that computes your happiness based 
 
 # Example Input
 
-5 3
+`5 3`
 
-1 5 3 4 2
+`1 5 3 4 2`
 
-1 3 5
+`1 3 5`
 
-7 4 6
+`7 4 6`
 
 # Output
 
-2
+`2`
 
 ## How It Works
 
